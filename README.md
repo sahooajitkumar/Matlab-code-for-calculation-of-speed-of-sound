@@ -9,3 +9,4 @@ References:
 2)  Owen Cramer, " The variation of the specific heat ratio and the speed of sound in air with temperature, pressure, humidity and CO2 concetration ", Journal of the Acoustical Society of America, vol. 93, no. 5, pp. 2510-16, May 1993.
 
 
+[I'm an inline-style link](https://www.google.com)
