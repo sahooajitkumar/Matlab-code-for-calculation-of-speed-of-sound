@@ -1,6 +1,9 @@
  % This speed of sound  formula  is based D. A. BOHN, 1988,J. Audio Eng. Soc.,Vol-36,No. 4,1988.
  %Environmental effects on speed of sound 
  %Temperature range 0-100 degree, Relative Humidity range 0%-100%RH
+ clear all;
+ clc;
+ 
 fid=fopen('Speed-of-sound.csv','w');%speed of sound  in m/s
 fid1=fopen('table2.csv','w'); % only RH
 fid2=fopen('table3.csv','w');% Pecentage of increase in speed of sound (combined effect of temp and RH)
