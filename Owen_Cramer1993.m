@@ -1,6 +1,9 @@
 %speed of sound calculated based on Owen Cramer Paper(1992) 
 %Temp range : 0- 30 Degree celcius, RH : 0-100%
 %-----------------
+clear all;
+clc;
+
 a0 = 331.5024;
 a1 = 0.603055; 
 a2 = -0.000528; 
